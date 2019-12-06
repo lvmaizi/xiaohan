@@ -13,6 +13,7 @@ public class webTest {
     public String test(){
         List<String> list = new ArrayList<>();
         list.add("123");
+        list.add("xiaohan");
         list.add("456");
         return "test";
     }
